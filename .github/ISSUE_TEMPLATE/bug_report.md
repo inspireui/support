@@ -17,3 +17,4 @@ If applicable, add screenshots to help explain your problem.
 
 **Additional context**
 Add any other detail logs about the problem here.
+If possible please share your config.js that use for the app setting
