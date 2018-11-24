@@ -1,7 +1,6 @@
 ---
 name: Report Installing Issues
 about: Request the installing support from InspireUI
-labels: 
 
 ---
 

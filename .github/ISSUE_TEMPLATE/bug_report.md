@@ -1,7 +1,6 @@
 ---
 name: Bug report
 about: Create a report the bug/issues to help us improve
-labels: 
 
 ---
 
