@@ -1,7 +1,7 @@
 ---
 name: Request support
 about: Create a report the bug/issues to help us improve
-title: "[Support]"
+title: "[my-product] - "
 labels: "help wanted \U0001F64F"
 assignees: ''
 
