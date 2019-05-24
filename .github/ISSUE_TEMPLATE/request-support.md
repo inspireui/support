@@ -1,8 +1,8 @@
 ---
-name: Bug report
+name: Request support
 about: Create a report the bug/issues to help us improve
-title: ''
-labels: ''
+title: "[Support]"
+labels: "help wanted \U0001F64F"
 assignees: ''
 
 ---
