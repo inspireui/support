@@ -3,7 +3,7 @@ name: Request support
 about: Create a report the bug/issues to help us improve
 title: "[my-product] - "
 labels: question ❓
-assignees: inspireui-support
+assignees: inspireui-tech
 
 ---
 
