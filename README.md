@@ -23,7 +23,7 @@ Contact Us: hi@inspireui.com
 ## Our products:
 
 - MStore: https://mstore.io - ecommerce mobile app support for WooCommerce
-- SpotUI: https://spotui.com - elegant mobile app template
+- Fluxstore: https://fluxstore.app - full ecommmerce by by Flutter framework
 - Our exclusive products on Envato: https://codecanyon.net/user/inspireui
 
 ## References:
