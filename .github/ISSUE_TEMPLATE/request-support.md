@@ -3,7 +3,7 @@ name: Request support
 about: Create a report the bug/issues to help us improve
 title: "[my-product] - "
 labels: question ❓
-assignees: inspireui-tech
+assignees: minhcasi
 
 ---
 
@@ -16,8 +16,8 @@ assignees: inspireui-tech
 
 1. My issue:
 
-2. Screenshots issues:
+2. Screenshots issues (required):
 
-3. Proof of my purchased:
+3. Proof of my purchased (required):
 
-3. Config files (optional)
+3. Config files (required)
