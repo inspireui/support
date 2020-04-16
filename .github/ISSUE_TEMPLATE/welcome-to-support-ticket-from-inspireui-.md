@@ -7,11 +7,11 @@ assignees: minhcasi
 
 ---
 
-**Step 1:** detail issues and screenshots
+Step 1 (require): detail issues and screenshots
 
 
 
-**Step 2:** verify license and sharing config files via this google form - http://private.inspireui.com
+Step 2 (require): verify license and sharing config files via this google form - http://private.inspireui.com
 
 
 
