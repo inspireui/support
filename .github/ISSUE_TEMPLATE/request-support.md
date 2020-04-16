@@ -7,8 +7,8 @@ assignees: minhcasi
 
 ---
 
-Step 1: Clarify the detail issues and screenshots:
+Step 1*: Clarify the detail issues and screenshots:
 
 
 
-Step 2: send Proof Purchase by submitting on this form - https://support.inspireui.com
+Step 2*: send Proof of Purchase by submitting on this form - https://support.inspireui.com
