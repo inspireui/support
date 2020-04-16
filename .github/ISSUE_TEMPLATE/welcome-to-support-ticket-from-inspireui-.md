@@ -1,8 +1,8 @@
 ---
 name: 'Welcome to Support Ticket from InspireUI '
 about: Let us know if you have any support by following 2 simple steps
-title: "[my-product] - "
-labels: question ❓
+title: ''
+labels: ''
 assignees: minhcasi
 
 ---
