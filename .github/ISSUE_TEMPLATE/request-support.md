@@ -11,4 +11,4 @@ Step 1: Clarify the detail issues and screenshots:
 
 
 
-Step 2: Provide Proof purchase via (private form)[https://docs.google.com/forms/d/e/1FAIpQLScWOjkAJIWJ9rgb9alopfOqLsJrGKbFM5cCYj1JBfLKLsBblQ/viewform]
+Step 2: send Proof Purchase by submitting on this form - https://support.inspireui.com
