@@ -11,7 +11,7 @@ assignees: minhcasi
 
 
 
-**Step 2:** verify license and sharing config files via - https://private.inspireui.com
+**Step 2:** verify license and sharing config files via this google form - http://private.inspireui.com
 
 
 
