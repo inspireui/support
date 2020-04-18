@@ -15,4 +15,4 @@ Step 2 (require): verify license and sharing config files via this google form -
 
 
 
-*Note: please help to fill the required information from the above 2 steps, we may close the ticket which is not included the proof of purchase.*
+*Note: please help to fill the required information from the above 2 steps, we may close the ticket which is not included the proof of purchase. Kindly help us to create only 1-Ticket & includes all the issues, that would help us focus to resolve it better. Thank you 😊*
