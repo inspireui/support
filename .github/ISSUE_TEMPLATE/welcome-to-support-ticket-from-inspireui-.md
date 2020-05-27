@@ -7,7 +7,7 @@ assignees: ''
 
 ---
 
-Step 1 (require): detail issues and screenshots
+Step 1 (require): let us know your detail issues & screenshots, what is the product name and version?
 
 
 
