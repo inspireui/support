@@ -11,7 +11,7 @@ Step 1 (require): let us know your detail issues & screenshots, what is the prod
 
 
 
-Step 2 (require): verify license and sharing config files via this google form - http://private.inspireui.com (please don't share the screenshot purchase here)
+Step 2 (require): verify license and sharing config files via this google form - http://verify.inspireui.com (please don't share the screenshot purchase here)
 
 
 
