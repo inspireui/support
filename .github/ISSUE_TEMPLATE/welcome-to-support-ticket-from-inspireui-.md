@@ -7,11 +7,11 @@ assignees: ''
 
 ---
 
-Step 1 (require): let us know your detail issues & screenshots, what is the product name and version?
+_*Step 1* (require): let us know your detail issues & screenshots, what is the product name and version?_
 
 
 
-Step 2 (require): verify license and sharing config files via this google form - http://verify.inspireui.com (please don't share the screenshot purchase here)
+_*Step 2* (require): verify license and sharing config files via this google form - http://verify.inspireui.com (please don't share the screenshot purchase)_
 
 
 
