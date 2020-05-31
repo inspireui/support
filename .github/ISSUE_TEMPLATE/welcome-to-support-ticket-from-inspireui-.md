@@ -7,7 +7,7 @@ assignees: ''
 
 ---
 
-_*Step 1* (require): describe detail issues & screenshots_
+_* Step 1 (require): describe detail issues & screenshots *_
 + Detail Issues: 
 + Product & version:
 + Flutter (or React Native) version: 
@@ -15,7 +15,7 @@ _*Step 1* (require): describe detail issues & screenshots_
 + Screenshot issues (drag the file to attach here): 
 
 
-_*Step 2* (require): verify proof of purchasing the license by submitting this form - http://verify.inspireui.com _
+_* Step 2 (require): verify proof of purchasing the license by submitting this form http://verify.inspireui.com *_
 
 
 
