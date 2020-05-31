@@ -7,15 +7,21 @@ assignees: ''
 
 ---
 
-_*Step 1* (require): let us know your detail issues & screenshots, what is the product name and version?_
+_*Step 1* (require): describe detail issues & screenshots_
++ Detail Issues: 
++ Product & version:
++ Flutter (or React Native) version: 
++ Testing Device/Simulator: 
++ Screenshot issues (drag the file to attach here): 
 
 
-
-_*Step 2* (require): verify license and sharing config files via this google form - http://verify.inspireui.com (please don't share the screenshot purchase)_
+_*Step 2* (require): verify proof of purchasing the license by submitting this form - http://verify.inspireui.com _
 
 
 
 *Important Note:* 
-- Please help to fill the required information from the above 2 steps and don't share the public screenshot purchase here, we may close the ticket which is not included the proof of purchase. Kindly help us to create only 1-Ticket & includes all the issues, that would help us focus to resolve it better. 
-- If your all ticket was resolved & closed, but would like to create a new ticket, then you don't need to submit the form again, just do simple step by linking to the previous verified ID, example: #Ticket-ID
+- We will close the ticket if missing the proof of purchase on step 2. The screenshot purchase attaches here will be invalid.
+- Kindly create only *One Ticket* & includes all the issues, that would help us focus to resolve it better. 
+- If your all ticket was resolved & closed, but want to create a new ticket, just do simple step by linking to the previous verified ID (you don't need to submit the form again), for example, #Ticket-ID
+
 Thank you so much for your time 😊
