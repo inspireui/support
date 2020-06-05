@@ -1,3 +1,4 @@
+[![Board Status](https://dev.azure.com/inspireui/7f354642-fc7c-445d-9e69-6386dbdca3d9/ff440004-23d0-40c6-b381-2c0db96636b1/_apis/work/boardbadge/dc305b20-9c5b-4a78-b7f8-1b2b659fa414)](https://dev.azure.com/inspireui/7f354642-fc7c-445d-9e69-6386dbdca3d9/_boards/board/t/ff440004-23d0-40c6-b381-2c0db96636b1/Microsoft.RequirementCategory)
 ## Welcome to InspireUI support channel 
 
 Thank you so much for purchasing our product! We look forward to providing you with a quality customer service, but before that, please take a few moments to familiarize yourself with the following terms and conditions, regarding the support we offer:
