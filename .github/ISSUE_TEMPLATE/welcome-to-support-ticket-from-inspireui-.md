@@ -24,7 +24,7 @@ assignees: ''
 
 
 **_Important Note:_**
-- We will close the ticket if missing the proof of purchase on step 2. The screenshot purchase attaches here will be invalid.
+- Please help to ready the support policies before creating a new ticket: https://inspireui.com/support-policies/
 - Kindly create only *One Ticket* & includes all the issues, that would help us focus to resolve it better. 
 - If your all ticket was resolved & closed, but want to create a new ticket, just do simple step by linking to the previous verified ID (you don't need to submit the form again), for example, #Ticket-ID
 
