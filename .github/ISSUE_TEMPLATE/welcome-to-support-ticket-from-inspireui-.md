@@ -9,6 +9,10 @@ assignees: ''
 
 **_Step 1 (require): describe detail issues & screenshots_**
 + Detail Issues: 
+- [ ] first issue
+- [ ] second issue
+- [ ] third issue
+
 + Product & version:
 + Flutter (or React Native) version: 
 + Testing Device/Simulator: 
