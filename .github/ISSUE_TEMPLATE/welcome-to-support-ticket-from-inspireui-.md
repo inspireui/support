@@ -21,7 +21,7 @@ assignees: ''
 
 
 
-**_Step 2 (require): submit proof of purchasing the license on http://verify.inspireui.com **
+**_Step 2 (require): submit proof of purchasing the license on https://verify.inspireui.com **
 
 
 
