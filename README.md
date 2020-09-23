@@ -1,4 +1,5 @@
 Greetings from InspireUI 🎉
+
 To improve user experience during support, we are announcing that a new ticket support system is available on this link https://support.inspireui.com 
 
 Please help to move your question on the new support system (you could mention this ticket so that the team could know more about the ticket's history).
