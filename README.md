@@ -9,16 +9,14 @@ Thanks for the purchase! Hope you enjoy our work.
 
 Discover more products from InspireUI, please visit our website: https://www.inspireui.com 
 
-- Our demo from Appstore (iOS devices): https://itunes.apple.com/us/developer/inspireui-company-limited/id1192736196
-- Demo app on Google Play (Android device): https://play.google.com/store/apps/developer?id=InspireUI
 
 Contact Us: hi@inspireui.com 
 
 ## Our products:
 
-- MStore: https://mstore.io - ecommerce mobile app support for WooCommerce
+- FluxBuilder: https://www.fluxbuilder.com - full ecommmerce by by Flutter framework
 - Fluxstore: https://fluxstore.app - full ecommmerce by by Flutter framework
-- Our exclusive products on Envato: https://codecanyon.net/user/inspireui
+
 
 ## References:
 
